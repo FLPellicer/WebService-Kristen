@@ -1,1 +1,12 @@
-{}
+{
+  "sitioWeb": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "url": "",
+    "database": "kristen",
+    "password": "SuperWow",
+    "name": "sitioWeb",
+    "user": "kristen",
+    "connector": "mysql"
+  }
+}
